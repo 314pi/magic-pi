@@ -39,7 +39,7 @@ if(mosc_480adee0.preferencesManager.getBoolPref("extensions.{480adee0-f020-4fef-
 }
 
 // - Close
-window.addEventListener("close", mosc_480adee0.minimizeOnClose, false);
+window.addEventListener("DOMWindowClose", mosc_480adee0.minimizeOnClose, false);
 
 // - Esc-press
 window.addEventListener("keypress", mosc_480adee0.minimizeOnEsc, false);
