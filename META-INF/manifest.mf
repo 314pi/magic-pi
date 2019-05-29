@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: igm8TNLYrZag3fmoPa4Rgw==
+SHA1-Digest: InfYf9ljdA8loY3Ym4HrJcyMtQs=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SupgMRRmMYpIexNHltUk1A==
+SHA1-Digest: DbwYIm/yZE19IlzuKL5FYOT9H7w=
+
+Name: preview.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dTeXiNXvN1k+fCBUeIpKNQ==
+SHA1-Digest: FHlBykffyy+Fq7RJTJJ+LZsF2Vc=
+
+Name: chrome/content/icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cKl3URDmZ05fVXsn2M+exA==
+SHA1-Digest: ExYEsoy1iwGJuL26p2S9f4ZUHLI=
+
+Name: chrome/content/moscFunc.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NQY1S3mB3ysHcaSIBU9moQ==
+SHA1-Digest: yA/Ahx+92hMuzlOv1YdPXf2RbsE=
+
+Name: chrome/content/options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F8OGakwDUdTmtcMrkzuDZQ==
+SHA1-Digest: UJyIw2auHdf2r1unSsMCvfKZP50=
+
+Name: chrome/content/overlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4VunQC6X0oUJorAg4BWuVQ==
+SHA1-Digest: QZZambxKB0u1CDKUyC9she9/jos=
+
+Name: defaults/preferences/mosc.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oGnjHc/enQavXG4u9LM0oA==
+SHA1-Digest: zUllMpNT9zeLxi1UdS6pADekhCE=
+
+Name: locale/en-US/lang.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xvDuOlJj2fQBUhQiIFv0rg==
+SHA1-Digest: LBGFnhMGP1kPc5ehv8xnfI7tnaA=
+
+Name: locale/sv-SE/lang.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bf0DpDnEKmrJd8iwG9DnLg==
+SHA1-Digest: mNoEGUoj5n/btXDJ4LWocLAlC0c=
+

@@ -1,0 +1,7 @@
+<!ENTITY  pref.title "Minimize On Start and Close">
+<!ENTITY  pref.settings "Inställningar">
+<!ENTITY  pref.minimizeOnStart "Minimera vid start">
+<!ENTITY  pref.minimizeOnClose "Minimera vid stängning">
+<!ENTITY  pref.minimizeOnEsc "Minimera vid Esc-tryckning">
+<!ENTITY  pref.advancedSettings "Avancerade inställningar">
+<!ENTITY  pref.initDelay "Fördröjning vid start (ms)">
